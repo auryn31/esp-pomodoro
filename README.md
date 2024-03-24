@@ -15,3 +15,8 @@
 ## Wiring Diagram
 
 ![Wiring Diagram](./img/wiring_diagram_pomodoro.drawio.png)
+
+
+## Resources
+
+- [ESP32 Super Mini Pinout](https://forum.arduino.cc/t/esp32-c3-supermini-pinout/1189850)
