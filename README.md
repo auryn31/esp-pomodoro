@@ -7,10 +7,9 @@
 - On/Off Switch 40ct
 - Screws + Insert 30ct
 - TZT OLES IIC 0.96" 2€
-- Loading board 5V Litium Battery 1.8€
+- Loading board 5V Lithium Battery 1.8€
 - Tactile Push Button 10ct
-- 5V steop up 
-
+- 5V step up
 
 ## Wiring Diagram
 
