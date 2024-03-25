@@ -20,3 +20,5 @@
 - [ESP32 Super Mini Pinout](https://forum.arduino.cc/t/esp32-c3-supermini-pinout/1189850)
 - [YouTube Video](https://youtu.be/i4x8xYaKlNE)
 - [Thingiverse Files](https://www.thingiverse.com/thing:6547679)
+- [Image2Cpp converter](https://diyusthad.com/image2cpp)
+- [Channel](https://youtube.com/channel/UChk4F4yBtP4i063wnJH8TIQ?sub_confirmation=1)
